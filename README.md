@@ -1,6 +1,5 @@
 # PHP_Learning
 So Here we go!
 
-2 SEE if version control works!
+MY php test Projects will all put in here!
 
-i love :coffee: :pizza: 
